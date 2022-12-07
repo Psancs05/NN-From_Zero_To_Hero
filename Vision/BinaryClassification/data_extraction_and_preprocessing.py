@@ -66,7 +66,6 @@ def split_data():
 if __name__ == "__main__":
 
     if not os.path.exists("images.tar.gz"):
-        #TODO: Download the images.tar.gz file from the following link
         download_data()
     else:
         print("images.tar.gz already exists")

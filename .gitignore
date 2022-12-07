@@ -1,1 +1,4 @@
-Vision/images
+Vision/BinaryClassification/images
+Vision/BinaryClassification/train.csv
+Vision/BinaryClassification/val.csv
+Vision/BinaryClassification/test.csv
