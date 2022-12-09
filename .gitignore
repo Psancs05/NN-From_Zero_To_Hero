@@ -1,4 +1,8 @@
+#Binary Classification
 Vision/BinaryClassification/images
 Vision/BinaryClassification/train.csv
 Vision/BinaryClassification/val.csv
 Vision/BinaryClassification/test.csv
+
+#Multi-Class Classification
+Vision/MultiClassClassification/images
